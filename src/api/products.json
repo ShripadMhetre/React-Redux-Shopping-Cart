@@ -1,0 +1,82 @@
+[
+  {
+    "id": 0,
+    "title": "Apple iMac (21.5-inch, 2.3 GHz Dual-core Intel Core i5, 8GB RAM, 1TB)",
+    "offerPrice": "90,000",
+    "price": "99,900",
+    "rating": "4.5",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/51WqYDg2pSL._SL1024_.jpg",
+    "desc": "21.5-inch_diagonal LED-backlit display. 2.3GHz dual-core Intel Core i5 processor Turbo Boost up to 3.6GHz. Intel Iris Plus Graphics 640. Magic Keyboard_Magic Mouse 2",
+    "seller": "Apple Store"
+  },
+  {
+    "id": 1,
+    "title": "Sennheiser PXC 550-II Wireless Headphone with Alexa Built-in, Noise Cancellation and Smart Pause - Black",
+    "offerPrice": "29,000",
+    "price": "29,990",
+    "rating": "4.2",
+    "img": "https://images-eu.ssl-images-amazon.com/images/I/41Sryk4ryBL._SL500_AC_SS350_.jpg",
+    "desc": "Created for the frequent Traveller, the PFC 550-ii wireless upgrades every journey with exceptional comfort, unrivalled sound quality and wireless freedom. The triple microphone array also delivers unrivalled speech clarity when making calls on the move or interacting with virtual assistants such as Siri, Google and Alexa via the voice assistant button. With exceptional ergonomic design and up to 30 hours of battery life, The PFC 550-ii wireless is the perfect companion for travelling in style.",
+    "seller": "Sennheiser"
+  },
+  {
+    "id": 2,
+    "title": "Redmi 8A (Sunset Red, 32 GB)",
+    "offerPrice": "6,999",
+    "price": "7,499",
+    "rating": "4.4",
+    "img": "https://fdn.gsmarena.com/imgroot/news/19/10/redmi-note8pro-redmi-note-8/-727/gsmarena_010.jpg",
+    "desc": "The Redmi 8A features a 5000-mAh high-capacity battery, so you can watch more videos, click more pictures, play more games on a single charge. What’s more? It also supports 18 W Fast Charge, so you can get back in action, in no time.",
+    "seller": "DA electronics"
+  },
+  {
+    "id": 3,
+    "title": "Apple iPhone 7 Plus (Black, 32 GB)",
+    "offerPrice": "32,999",
+    "price": "37,900",
+    "rating": "4.5",
+    "img": "https://i1.wp.com/appleosophy.com/wp-content/uploads/2018/12/07-iphone-xs-and-iphone-xs-max.jpg?fit=3000%2C1688&ssl=1",
+    "desc": "The iPhone 7 Plus brings to you a heady combination of style and performance to enhance your smartphone experience. With its impressive internal storage, powerful camera system, fast processor and long battery life, there'll never be a dull moment again.",
+    "seller": "Apple Store"
+  },
+  {
+    "id": 4,
+    "title": "Apple iPhone XR (Blue, 64 GB)",
+    "offerPrice": "49,000",
+    "price": "76,900",
+    "rating": "4.6",
+    "img": "https://cdn.mos.cms.futurecdn.net/d5ot8YTLoPQKVPDq4HwzLG.jpg",
+    "desc": "The iPhone XR has arrived to stun our senses with a host of features such as the Liquid Retina Display, a faster Face ID, and the powerful A12 Bionic Chip. Whether it's that picture-perfect portrait shot or a jaw-dropping HDR picture, the cameras of this iPhone too will continue to stun you with their brilliance. Thus, when you have the iPhone XR in your hands, you can only see beauty, in every way.",
+    "seller": "Semicolon"
+  },
+  {
+    "id": 5,
+    "title": "Canon EOS 90D (EF-S18-55mm f/4-5.6 is STM)",
+    "offerPrice": "81,999",
+    "price": "1,03,490",
+    "rating": "4.5",
+    "img": "https://images-eu.ssl-images-amazon.com/images/I/31-7qXex97L._SL500_AC_SS350_.jpg",
+    "desc": "Capture everything from high-speed sporting events to simple, everyday moments with the EOS 90D camera. Featuring a 32.5 Megapixel CMOS (APS-C) sensor, powerful DIGIC 8 Image Processor, 4K 30p video and more, it can achieve sharp, stunning results no matter where your photography venture takes you.",
+    "seller": "Vivo Mobiles"
+  },
+  {
+    "id": 6,
+    "title": "Honor 9X (Midnight Black, 128 GB) (6 GB RAM)",
+    "offerPrice": "16,999",
+    "price": "19,999",
+    "rating": "4.4",
+    "img": "https://www.tabletowo.pl/wp-content/uploads/2019/05/premiera-seria-honor20-tabletowo-03.jpg",
+    "desc": "The Honor 9X comes with a notch-free, 16.73 cm (6.5) Full HD+ display that comes with a screen-to-body ratio of 91%, giving you an immersive and wonderful phone experience. It is a beautifully designed phone that comes with a smooth back panel with a glimmering pearl X effect.",
+    "seller": "Mad Semicolon"
+  },
+  {
+    "id": 7,
+    "title": "POCO X2 (Atlantis Blue, 128 GB)  (6 GB RAM)",
+    "offerPrice": "17,499",
+    "price": "18,999",
+    "rating": "4.6",
+    "img": "https://thetelescope.in/wp-content/uploads/2019/05/xiaomi-poco-f2-pro-concept-design_1547806928100.jpg",
+    "desc": "Get set to game, capture, and watch your favourite content on the POCO X2 smartphone. Featuring the RealityFlow display, a quad rear camera system (64 MP Sony IMX686 sensor, 8 MP ultra-wide sensor, 2 MP depth sensor, and 2 MP macro sensor), and the liquid cooling system, this smartphone has everything in place to help you do anything in the most suitable manner.",
+    "seller": "RioTech"
+  }
+]

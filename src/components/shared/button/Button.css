@@ -1,0 +1,36 @@
+.btn-container {
+    display: flex;
+}
+
+.btn-container span:first-child {
+    margin-right: 1rem;
+}
+
+.btn--primary {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    background: #fb641c;
+    padding: 18px 50px;
+    color: #fff;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+.btn--secondary {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    background: rgba(0, 0, 0, .09);
+    width: 4rem;
+    height: 4rem;
+    cursor: pointer;
+}
+
+@media screen and (max-width: 767px){
+    .btn-container{
+      display: flex;
+      justify-content: center;
+      text-align: center;
+    }
+}
