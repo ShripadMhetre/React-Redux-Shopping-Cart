@@ -39,7 +39,7 @@ class Checkout extends React.Component {
             <h4 className="lead text-muted font-italic my-4">
               While we're making your products ready, you can star this{" "}
               <a
-                href="https://github.com/DheerajMahra/riocart-redux"
+                href="https://github.com/ShripadMhetre/React-Redux-Shopping-Cart"
                 target="_blank"
                 rel="noopener noreferrer"
               >
